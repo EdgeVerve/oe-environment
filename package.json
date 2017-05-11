@@ -50,7 +50,7 @@
     "sinon-test": "^1.0.1",
     "xo": "^0.18.1",
     "yeoman-assert": "^3.0.0",
-    "oe-generator": "git+https://github.com/EdgeVerve/oe-generator.git"
+    "oe-generator": "git+https://github.com/EdgeVerve/oe-generator.git#master"
   },
   "xo": {
     "space": true,
