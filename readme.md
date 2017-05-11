@@ -7,3 +7,7 @@ For more information refer [Yeoman Environment Documentation](http://yeoman.io/e
 This project is changed from original project for,
 
 * Adding organisation branding
+
+# License
+
+BSD-2-Clause © Yeoman
