@@ -12,7 +12,10 @@
     "app"
   ],
   "license": "BSD-2-Clause",
-  "repository": "yeoman/environment",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:EdgeVerve/oe-environment.git"
+  },
   "scripts": {
     "test": "xo && gulp",
     "doc": "jsdoc -c ./jsdoc.json ./readme.md",
@@ -50,7 +53,7 @@
     "sinon-test": "^1.0.1",
     "xo": "^0.18.1",
     "yeoman-assert": "^3.0.0",
-    "oe-generator": "git+https://github.com/EdgeVerve/oe-generator.git#master"
+    "oe-generator": "^0.8.0"
   },
   "xo": {
     "space": true,
