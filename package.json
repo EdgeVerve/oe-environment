@@ -18,9 +18,7 @@
   },
   "scripts": {
     "test": "xo && gulp",
-    "doc": "jsdoc -c ./jsdoc.json ./readme.md",
-    "benchmark": "matcha benchmark/**",
-    "prepublish": "gulp prepublish"
+    "doc": "jsdoc -c ./jsdoc.json ./readme.md"
   },
   "dependencies": {
     "chalk": "^1.0.0",
@@ -53,7 +51,7 @@
     "sinon-test": "^1.0.1",
     "xo": "^0.18.1",
     "yeoman-assert": "^3.0.0",
-    "oe-generator": "^0.8.0"
+    "oe-generator": "^1.1.1"
   },
   "xo": {
     "space": true,
