@@ -48,7 +48,7 @@
     "sinon-test": "1.0.2",
     "xo": "0.25.3",
     "yeoman-assert": "3.1.1",
-    "oe-generator": "git+http://evgit/oecloud.io/oe-generator.git#1.2.2"
+    "oe-generator": "^1.1.2"
   },
   "xo": {
     "space": true,
